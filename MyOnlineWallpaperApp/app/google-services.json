@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "648095113343",
+    "firebase_url": "https://online-wallpaper-app-9f738.firebaseio.com",
+    "project_id": "online-wallpaper-app-9f738",
+    "storage_bucket": "online-wallpaper-app-9f738.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648095113343:android:25746f11bc6a8919e91f4a",
+        "android_client_info": {
+          "package_name": "com.hmdevs.onlinewallpaperapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648095113343-dauaagifar836f164264hrqir6pft4ef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN4IdjxBx7VKJotsAYcPUMK36D3Zrj2pM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648095113343-dauaagifar836f164264hrqir6pft4ef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
